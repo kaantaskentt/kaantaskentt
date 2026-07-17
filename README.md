@@ -8,7 +8,7 @@ My projects are product experiments with real implementations, explicit limitati
 
 | Project | What it explores |
 | --- | --- |
-| [Ultra Vision](https://github.com/kaantaskentt/ultra-vision) | Local-first hand and face tracking with gesture-controlled audio in the browser |
+| [Ultra Vision](https://github.com/kaantaskentt/ultra-vision) | Local-first vision and a gesture-controlled two-deck DJ mixer in the browser |
 | [Nexus](https://github.com/kaantaskentt/nexus) | AI interviews that turn human context into trust-tagged claims, workflow maps, and perception gaps |
 | [RecordFlow](https://github.com/kaantaskentt/recordflow) | Evidence-linked process discovery for turning recorded work into automation-ready specifications |
 | [LaunchDeck](https://github.com/kaantaskentt/launchdeck) | A local-first cockpit for importing, inspecting, editing, and safely previewing projects |
