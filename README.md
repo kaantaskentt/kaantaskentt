@@ -7,28 +7,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaan-taskent-5a0077263"><img src="https://img.shields.io/badge/LinkedIn-Kaan%20Taskent-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kaantaskent"><img src="https://img.shields.io/badge/LinkedIn-Kaan%20Taskent-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://onepercentsession.com"><img src="https://img.shields.io/badge/1%25%20Session-onepercentsession.com-3AD6A4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="1% Session"></a>
   <a href="https://istanbulslushd.com"><img src="https://img.shields.io/badge/Slush'D-Istanbul-E63946?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Slush'D Istanbul"></a>
 </p>
 
-## Hi, I'm Kaan
+## About
 
-I like to solve where AI fits into a business and adopt it with the right context. I listen to the problem, figure out where AI actually helps, then build it or integrate it into the workflows people already have.
+**Founder of [1% Session](https://onepercentsession.com) · Head of AI at Slush'D Istanbul · Manus AI Fellow**
 
-- Trained 1,500+ professionals and 7 enterprises on agentic AI through [1% Session](https://onepercentsession.com)
-- Winner of the Apify x Manus AI x Google Developer Group agent hackathon (San Francisco, 2026)
-- Manus AI Fellow
-- Organised the Istanbul Ignited by Slush'D hackathons: OpenAI Codex and Manus AI tracks, 70+ project submissions in one day (October 2026)
-- Georgetown grad, psychology background. Probably why I think about how humans and AI talk to each other all day.
+I find where AI actually earns its place in a business, then build it or wire it into the tools the team already uses. Psychology background (Georgetown), so I care as much about how people work with agents as about the agents themselves.
 
-## Building now
+- **1,500+ professionals and 7 enterprises** trained on agentic AI
+- **Hackathon winner** at the Apify x Manus AI x Google Developer Group agent hackathon
+- **Ran the Istanbul Ignited hackathons** for Slush'D, with OpenAI Codex and Manus AI tracks
 
-| | What it is | Why |
-| --- | --- | --- |
-| **The Office** | An office of AI agents that know my context and coordinate with each other | So one person can run several small businesses |
-| **Reel Radar** | An AI-run social channel that sells a programme | Experiment one: can agents run a whole business? |
-| **1% Session** | Workshops and a programme that get teams using AI for real work | The part that pays the bills |
+## Now
+
+- **[1% Session](https://onepercentsession.com):** programmes and workshops that get company teams doing real work with AI
+- **The Office:** a team of AI agents that share my context and hand work to each other
+- **Reel Radar:** can a team of agents run a social channel that sells a product, end to end?
 
 ## Featured work
 
@@ -71,4 +69,4 @@ I like to solve where AI fits into a business and adopt it with the right contex
 
 I'm in Istanbul. If you run a team that should be using AI for real work, or you're building agents and want to compare notes, my inbox is open.
 
-[LinkedIn](https://www.linkedin.com/in/kaan-taskent-5a0077263) · [onepercentsession.com](https://onepercentsession.com) · [Slush'D Istanbul](https://istanbulslushd.com)
+[LinkedIn](https://www.linkedin.com/in/kaantaskent) · [onepercentsession.com](https://onepercentsession.com) · [Slush'D Istanbul](https://istanbulslushd.com)
