@@ -17,7 +17,7 @@
 I like to solve where AI fits into a business and adopt it with the right context. I listen to the problem, figure out where AI actually helps, then build it or integrate it into the workflows people already have.
 
 - Trained 1,500+ professionals and 7 enterprises on agentic AI through [1% Session](https://onepercentsession.com)
-- Hackathon winner: Apify x Manus AI x Google Developer Group hackathon
+- Winner of the Apify x Manus AI x Google Developer Group agent hackathon (San Francisco, 2026)
 - Manus AI Fellow
 - Organised the Istanbul Ignited by Slush'D hackathons: OpenAI Codex and Manus AI tracks, 70+ project submissions in one day (October 2026)
 - Georgetown grad, psychology background. Probably why I think about how humans and AI talk to each other all day.
