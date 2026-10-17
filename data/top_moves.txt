@@ -1,1 +1,1 @@
-{}
+{'@kaantaskentt': 1}
