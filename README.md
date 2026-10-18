@@ -89,19 +89,23 @@ One board, the whole internet plays it, one move at a time. It is <!-- BEGIN TUR
 <!-- END LAST MOVES -->
 </details>
 
-## Stack
+## How I build
+
+I run a small team of AI agents the way a founder runs a startup: Claude plans and reviews, Codex builds, a judgment model scores the calls, and nothing ships until a test or a screenshot proves it.
+
+| Layer | What I use | What it does for me |
+| :-- | :-- | :-- |
+| **Agents that build** | Claude Code, OpenAI Codex | Two models, one builds and the other reviews. Neither grades its own work. |
+| **Agents that act** | Manus, Playwright, OpenAI Realtime | Browse, fill forms, talk by voice, run whole workflows end to end |
+| **Judgment** | Jev (TypeSafe) | Typed yes/no and scores in under a second, for calls I don't want an LLM to ramble about |
+| **Eyes** | MediaPipe, local vision models | Gestures, hands and faces, running in the browser with nothing sent to a server |
+| **Data in** | Apify, Firecrawl, public APIs | Turn the open web into clean rows my agents can reason over |
+| **Media out** | fal.ai, Higgsfield | Images and video generated on demand inside the product |
+| **Product** | Next.js, TypeScript, React, Tailwind | The part people actually touch |
+| **Backbone** | Supabase, Postgres, FastAPI, Vercel, GitHub Actions | Auth, data and deploys, plus cron agents that commit their own work |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi,supabase,postgres,tailwind,vercel,vite,git,github,githubactions,figma&perline=8" alt="TypeScript, Next.js, React, Node, Python, FastAPI, Supabase, Postgres, Tailwind, Vercel, Vite, Git, GitHub, GitHub Actions, Figma">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-Codex%20%26%20Realtime-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude Code">
-  <img src="https://img.shields.io/badge/Manus-AI%20agents-111111?style=flat-square" alt="Manus">
-  <img src="https://img.shields.io/badge/Apify-scraping-00A6ED?style=flat-square&logo=apify&logoColor=white" alt="Apify">
-  <img src="https://img.shields.io/badge/fal.ai-image%20%26%20video-7C3AED?style=flat-square" alt="fal.ai">
-  <img src="https://img.shields.io/badge/MediaPipe-vision-FF6F00?style=flat-square" alt="MediaPipe">
-  <img src="https://img.shields.io/badge/Playwright-browser%20agents-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,supabase,postgres,vercel,githubactions,figma&perline=12" alt="TypeScript, Next.js, React, Tailwind, Node, Python, FastAPI, Supabase, Postgres, Vercel, GitHub Actions, Figma">
 </p>
 
 ## GitHub
