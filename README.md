@@ -43,6 +43,25 @@ I find where AI actually earns its place in a business, then build it or wire it
   <a href="https://github.com/kaantaskentt/creator-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=creator-lab&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="Creator Lab: research Instagram Reel scripts with Apify and Jev"></a>
 </p>
 
+## How I build
+
+I run a small team of AI agents the way a founder runs a startup: Claude plans and reviews, Codex builds, a judgment model scores the calls, and nothing ships until a test or a screenshot proves it.
+
+| Layer | What I use | What it does for me |
+| :-- | :-- | :-- |
+| **Agents that build** | Claude Code, OpenAI Codex | Two models, one builds and the other reviews. Neither grades its own work. |
+| **Agents that act** | Manus, Playwright, OpenAI Realtime | Browse, fill forms, talk by voice, run whole workflows end to end |
+| **Judgment** | Jev (TypeSafe) | Typed yes/no and scores in under a second, for calls I don't want an LLM to ramble about |
+| **Eyes** | MediaPipe, local vision models | Gestures, hands and faces, running in the browser with nothing sent to a server |
+| **Data in** | Apify, Firecrawl, public APIs | Turn the open web into clean rows my agents can reason over |
+| **Media out** | fal.ai, Higgsfield | Images and video generated on demand inside the product |
+| **Product** | Next.js, TypeScript, React, Tailwind | The part people actually touch |
+| **Backbone** | Supabase, Postgres, FastAPI, Vercel, GitHub Actions | Auth, data and deploys, plus cron agents that commit their own work |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,supabase,postgres,vercel,githubactions,figma&perline=12" alt="TypeScript, Next.js, React, Tailwind, Node, Python, FastAPI, Supabase, Postgres, Vercel, GitHub Actions, Figma">
+</p>
+
 ## Play chess with everyone
 
 One board, the whole internet plays it, one move at a time. It is <!-- BEGIN TURN -->black<!-- END TURN -->'s turn. Click a move below: that opens a pre-filled issue, a GitHub Action plays it, redraws this board and closes the issue. Green is black.
@@ -88,25 +107,6 @@ One board, the whole internet plays it, one move at a time. It is <!-- BEGIN TUR
 
 <!-- END LAST MOVES -->
 </details>
-
-## How I build
-
-I run a small team of AI agents the way a founder runs a startup: Claude plans and reviews, Codex builds, a judgment model scores the calls, and nothing ships until a test or a screenshot proves it.
-
-| Layer | What I use | What it does for me |
-| :-- | :-- | :-- |
-| **Agents that build** | Claude Code, OpenAI Codex | Two models, one builds and the other reviews. Neither grades its own work. |
-| **Agents that act** | Manus, Playwright, OpenAI Realtime | Browse, fill forms, talk by voice, run whole workflows end to end |
-| **Judgment** | Jev (TypeSafe) | Typed yes/no and scores in under a second, for calls I don't want an LLM to ramble about |
-| **Eyes** | MediaPipe, local vision models | Gestures, hands and faces, running in the browser with nothing sent to a server |
-| **Data in** | Apify, Firecrawl, public APIs | Turn the open web into clean rows my agents can reason over |
-| **Media out** | fal.ai, Higgsfield | Images and video generated on demand inside the product |
-| **Product** | Next.js, TypeScript, React, Tailwind | The part people actually touch |
-| **Backbone** | Supabase, Postgres, FastAPI, Vercel, GitHub Actions | Auth, data and deploys, plus cron agents that commit their own work |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,supabase,postgres,vercel,githubactions,figma&perline=12" alt="TypeScript, Next.js, React, Tailwind, Node, Python, FastAPI, Supabase, Postgres, Vercel, GitHub Actions, Figma">
-</p>
 
 ## GitHub
 
