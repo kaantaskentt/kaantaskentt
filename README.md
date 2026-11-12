@@ -100,4 +100,4 @@ One board, the whole internet plays it, one move at a time. It is <!-- BEGIN TUR
 
 ---
 
-<p align="center">Istanbul · If your team should be using AI for real work, <a href="https://www.linkedin.com/in/kaantaskent">say hi on LinkedIn</a>.</p>
+<p align="center">Say hi on <a href="https://www.linkedin.com/in/kaantaskent">LinkedIn</a> (more active there :)</p>
