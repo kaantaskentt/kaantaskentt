@@ -12,7 +12,7 @@
   <a href="https://istanbulslushd.com"><img src="https://img.shields.io/badge/Slush'D%20Istanbul-0b0f14?style=flat-square&logo=googlemaps&logoColor=3ad6a4" alt="Slush'D Istanbul"></a>
 </p>
 
-Founder of [1% Session](https://onepercentsession.com). Head of AI at Slush'D Istanbul. Manus AI Fellow.
+Founder of [1% Session](https://onepercentsession.com) & Manus AI Fellow.
 
 I find where AI earns its place in a business, then build it into the tools the team already uses. My background is psychology (Georgetown), so I design around how people actually work with agents.
 
