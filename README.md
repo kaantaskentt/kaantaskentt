@@ -3,63 +3,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=3AD6A4&center=true&vCenter=true&width=700&lines=AI+products+that+ship;Agents+that+run+one-person+businesses;Computer+vision+experiments+for+fun;Teaching+teams+to+adopt+AI+with+the+right+context" alt="AI products that ship. Agents that run one-person businesses. Computer vision experiments for fun.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=3AD6A4&center=true&vCenter=true&width=700&lines=Agents+that+run+one-person+businesses;Computer+vision+in+the+browser;Teaching+teams+to+do+real+work+with+AI" alt="Agents that run one-person businesses. Computer vision in the browser. Teaching teams to do real work with AI.">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaantaskent"><img src="https://img.shields.io/badge/LinkedIn-Kaan%20Taskent-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://onepercentsession.com"><img src="https://img.shields.io/badge/1%25%20Session-onepercentsession.com-3AD6A4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="1% Session"></a>
-  <a href="https://istanbulslushd.com"><img src="https://img.shields.io/badge/Slush'D-Istanbul-E63946?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Slush'D Istanbul"></a>
+  <a href="https://www.linkedin.com/in/kaantaskent"><img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=flat-square&logo=linkedin&logoColor=3ad6a4" alt="LinkedIn"></a>
+  <a href="https://onepercentsession.com"><img src="https://img.shields.io/badge/1%25%20Session-0b0f14?style=flat-square&logo=googlechrome&logoColor=3ad6a4" alt="1% Session"></a>
+  <a href="https://istanbulslushd.com"><img src="https://img.shields.io/badge/Slush'D%20Istanbul-0b0f14?style=flat-square&logo=googlemaps&logoColor=3ad6a4" alt="Slush'D Istanbul"></a>
 </p>
 
-## About
+Founder of [1% Session](https://onepercentsession.com). Head of AI at Slush'D Istanbul. Manus AI Fellow.
 
-**Founder of [1% Session](https://onepercentsession.com) · Head of AI at Slush'D Istanbul · Manus AI Fellow**
+I find where AI earns its place in a business, then build it into the tools the team already uses. My background is psychology (Georgetown), so I design around how people actually work with agents.
 
-I find where AI actually earns its place in a business, then build it or wire it into the tools the team already uses. Psychology background (Georgetown), so I care as much about how people work with agents as about the agents themselves.
+- Trained **1,500+ professionals** and **7 enterprises** on agentic AI
+- Won the **Apify x Manus AI x Google Developer Group** agent hackathon
+- Ran the **Istanbul Ignited** hackathons, with OpenAI Codex and Manus AI tracks
 
-- **1,500+ professionals and 7 enterprises** trained on agentic AI
-- **Hackathon winner** at the Apify x Manus AI x Google Developer Group agent hackathon
-- **Ran the Istanbul Ignited hackathons** for Slush'D, with OpenAI Codex and Manus AI tracks
+## Selected work
+
+| | |
+| :-- | :-- |
+| [**Nexus**](https://github.com/kaantaskentt/nexus) | AI interviews that turn what people know into trust-tagged evidence and workflow maps |
+| [**RecordFlow**](https://github.com/kaantaskentt/recordflow) | Record a task once, get evidence-linked steps and an automation-ready spec |
+| [**Ultra Vision**](https://github.com/kaantaskentt/ultra-vision) | Local-first computer vision in the browser, including a gesture-controlled DJ mixer |
+| [**ContextOS**](https://github.com/kaantaskentt/context-os) | An agent skill that compacts long-running AI memory |
+| [**LaunchDeck**](https://github.com/kaantaskentt/launchdeck) | Local-first cockpit to import, inspect and safely preview projects |
+| [**Creator Lab**](https://github.com/kaantaskentt/creator-lab) | Research short-form video scripts with Apify and Jev |
 
 ## Now
 
-- **[1% Session](https://onepercentsession.com):** programmes and workshops that get company teams doing real work with AI
-- **The Office:** a team of AI agents that share my context and hand work to each other
-- **Reel Radar:** can a team of agents run a social channel that sells a product, end to end?
-
-## Featured work
-
-<p align="center">
-  <a href="https://github.com/kaantaskentt/ultra-vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=ultra-vision&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="Ultra Vision: local-first computer vision and a gesture-controlled DJ mixer in the browser"></a>
-  <a href="https://github.com/kaantaskentt/nexus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=nexus&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="Nexus: AI interviews that turn human context into trust-tagged evidence"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/kaantaskentt/recordflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=recordflow&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="RecordFlow: AI process discovery from recorded work"></a>
-  <a href="https://github.com/kaantaskentt/launchdeck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=launchdeck&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="LaunchDeck: local-first project cockpit"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/kaantaskentt/context-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=context-os&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="ContextOS: an agent skill for compacting AI memory"></a>
-  <a href="https://github.com/kaantaskentt/creator-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaantaskentt&repo=creator-lab&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="Creator Lab: research Instagram Reel scripts with Apify and Jev"></a>
-</p>
+- **1% Session:** programmes that get company teams doing real work with AI
+- **The Office:** agents that share my context and hand work to each other
+- **Reel Radar:** can agents run a full business, from content to sale?
 
 ## How I build
 
-I run a small team of AI agents the way a founder runs a startup: Claude plans and reviews, Codex builds, a judgment model scores the calls, and nothing ships until a test or a screenshot proves it.
+One model builds, another reviews, and nothing ships until a test or a screenshot proves it.
 
-| Layer | What I use | What it does for me |
-| :-- | :-- | :-- |
-| **Agents that build** | Claude Code, OpenAI Codex | Two models, one builds and the other reviews. Neither grades its own work. |
-| **Agents that act** | Manus, Playwright, OpenAI Realtime | Browse, fill forms, talk by voice, run whole workflows end to end |
-| **Judgment** | Jev (TypeSafe) | Typed yes/no and scores in under a second, for calls I don't want an LLM to ramble about |
-| **Eyes** | MediaPipe, local vision models | Gestures, hands and faces, running in the browser with nothing sent to a server |
-| **Data in** | Apify, Firecrawl, public APIs | Turn the open web into clean rows my agents can reason over |
-| **Media out** | fal.ai, Higgsfield | Images and video generated on demand inside the product |
-| **Product** | Next.js, TypeScript, React, Tailwind | The part people actually touch |
-| **Backbone** | Supabase, Postgres, FastAPI, Vercel, GitHub Actions | Auth, data and deploys, plus cron agents that commit their own work |
+| | |
+| :-- | :-- |
+| **Agents** | Claude Code, OpenAI Codex, Manus, Playwright, OpenAI Realtime |
+| **Data and judgment** | Apify, Firecrawl, Jev, MediaPipe |
+| **Product** | TypeScript, Next.js, React, Python, FastAPI, Supabase, Vercel |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,supabase,postgres,vercel,githubactions,figma&perline=12" alt="TypeScript, Next.js, React, Tailwind, Node, Python, FastAPI, Supabase, Postgres, Vercel, GitHub Actions, Figma">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,fastapi,supabase,postgres,vercel,githubactions&perline=10" alt="TypeScript, Next.js, React, Tailwind, Python, FastAPI, Supabase, Postgres, Vercel, GitHub Actions">
 </p>
 
 ## Play chess with everyone
@@ -108,15 +97,7 @@ One board, the whole internet plays it, one move at a time. It is <!-- BEGIN TUR
 <!-- END LAST MOVES -->
 </details>
 
-## GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaantaskentt&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&icon_color=3ad6a4&text_color=aab8c8" alt="Kaan's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaantaskentt&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3ad6a4&text_color=aab8c8" alt="Most used languages">
-</p>
+---
 
-## Say hi
-
-I'm in Istanbul. If you run a team that should be using AI for real work, or you're building agents and want to compare notes, my inbox is open.
-
-[LinkedIn](https://www.linkedin.com/in/kaantaskent) · [onepercentsession.com](https://onepercentsession.com) · [Slush'D Istanbul](https://istanbulslushd.com)
+<p align="center">Istanbul · If your team should be using AI for real work, <a href="https://www.linkedin.com/in/kaantaskent">say hi on LinkedIn</a>.</p>
